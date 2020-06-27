@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/urgerapp/static/css/main.b3a9b1f4.chunk.css",
+    "main.js": "/urgerapp/static/js/main.4beac589.chunk.js",
+    "main.js.map": "/urgerapp/static/js/main.4beac589.chunk.js.map",
+    "runtime-main.js": "/urgerapp/static/js/runtime-main.d3d7ca69.js",
+    "runtime-main.js.map": "/urgerapp/static/js/runtime-main.d3d7ca69.js.map",
+    "static/js/2.54b05c25.chunk.js": "/urgerapp/static/js/2.54b05c25.chunk.js",
+    "static/js/2.54b05c25.chunk.js.map": "/urgerapp/static/js/2.54b05c25.chunk.js.map",
+    "index.html": "/urgerapp/index.html",
+    "precache-manifest.2b05c790d063c8399c4fa9509e0f512c.js": "/urgerapp/precache-manifest.2b05c790d063c8399c4fa9509e0f512c.js",
+    "service-worker.js": "/urgerapp/service-worker.js",
+    "static/css/main.b3a9b1f4.chunk.css.map": "/urgerapp/static/css/main.b3a9b1f4.chunk.css.map",
+    "static/js/2.54b05c25.chunk.js.LICENSE.txt": "/urgerapp/static/js/2.54b05c25.chunk.js.LICENSE.txt",
+    "static/media/original.png": "/urgerapp/static/media/original.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3d7ca69.js",
+    "static/js/2.54b05c25.chunk.js",
+    "static/css/main.b3a9b1f4.chunk.css",
+    "static/js/main.4beac589.chunk.js"
+  ]
+}
